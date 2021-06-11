@@ -114,8 +114,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #signin .or span {
-    color: lightgray;
-    margin-bottom: 3rem;
+    color: rgb(48, 48, 48);
+    padding: 0 10px
 }
 
 /* showcase */
